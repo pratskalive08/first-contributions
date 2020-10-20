@@ -7065,6 +7065,7 @@
 - [Noor Ansari](https://github.com/Noor-Ansari)
 - [Ryan Rahman Setiawan](https://github.com/ryanrahmans26)
 - DummyVariable
+- [Prats](https://github.com/pratskalive08)
 - [Yoni Saka Samudra](https://github.com/yonisaka)
 - [Harshit](https://github.com/HarshitSachdeva)
 - [Kyle Dunn] (https://github.com/enablingturtle)
@@ -7098,3 +7099,4 @@
 - [Yash Gupta](https://github.com/itsyash2122)
 - [Denio Shaji John](https://github.com/deniosj)
 - [Riza Radia Rivaldo](https://github.com/rizaradiarivaldo)
+
